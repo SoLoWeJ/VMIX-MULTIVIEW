@@ -59,7 +59,7 @@ txt_IN3.Text
 C. Deploy Script
 Open vMix Scripting tab
 
-Add new script → Import MULTIVIEWER_V1.3.VB
+Add new script → copy the script to vMix scripting Multiview_script.vb
 
 Start script
 
