@@ -31,9 +31,9 @@ Source Assignment → Color Coding → Layer Distribution
 ### 2. Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/vmix-multiview.git
+git clone  https://github.com/SoLoWeJ/VMIX-MULTIVIEW.git
 # Or download script file directly
-# MULTIVIEWER_V1.3.VB
+# Multiview_script.vb
 ```
 3. Setup Steps
 A. Add Multiview Templates
